@@ -136,9 +136,9 @@ python -m pytest tests/
 
 Detailed documentation is available in the `docs/` directory:
 
-- [Installation Guide](docs/installation.md)
-- [Usage Examples](docs/usage.md)
-- [API Reference](docs/api_reference.md)
+- [Installation Guide]([docs/installation.md](https://github.com/poornavenkatn08/Python_Pandas-Data-Analysis-Portfolio/blob/main/docs/Installation.md))
+- [Usage Examples]([docs/usage.md](https://github.com/poornavenkatn08/Python_Pandas-Data-Analysis-Portfolio/blob/main/docs/usage.md))
+- [API Reference]([docs/api_reference.md](https://github.com/poornavenkatn08/Python_Pandas-Data-Analysis-Portfolio/blob/main/docs/api_reference.md))
 
 ## 🤝 Contributing
 
