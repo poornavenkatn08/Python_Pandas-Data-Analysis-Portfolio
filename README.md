@@ -1,4 +1,4 @@
-# Data Analysis Toolkit 🔍
+# Data Analysis 🔍
 
 A comprehensive Python toolkit for web scraping, data cleaning, and exploratory data analysis (EDA). This toolkit provides professional-grade tools for the complete data analysis pipeline.
 
