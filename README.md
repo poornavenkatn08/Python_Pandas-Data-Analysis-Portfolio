@@ -304,3 +304,9 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 - ✅ Memory-optimized processing  
 - ✅ Professional logging & error handling  
 - ✅ Real-world tested on demographics & employment data  
+## 📬 Contact
+
+Let’s connect! I'm open to collaboration and job opportunities in data analytics and visualization.
+
+📧 pvneelakantam@gmail.com
+🔗 https://www.linkedin.com/in/pneelakantam/
