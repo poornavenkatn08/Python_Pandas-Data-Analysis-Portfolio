@@ -141,10 +141,6 @@ Detailed documentation is available in the `docs/` directory:
 - [API Reference](https://github.com/poornavenkatn08/Python_Pandas-Data-Analysis-Portfolio/blob/main/docs/api_reference.md)
 
 
-## 🤝 Contributing
-
-We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
-
 ### Development Setup
 
 1. Fork the repository
