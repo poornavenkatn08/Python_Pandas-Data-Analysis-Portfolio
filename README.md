@@ -174,7 +174,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ⭐ **Star this repository if you find it helpful!**
 
+📬 Contact
 
-```python
+Let’s connect! I'm open to collaboration and job opportunities in data analytics and visualization.
 
-```
+📧 pvneelakantam@gmail.com
+🔗 https://www.linkedin.com/in/pneelakantam/
