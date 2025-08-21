@@ -1,0 +1,192 @@
+================================================================================
+COMPREHENSIVE EXPLORATORY DATA ANALYSIS REPORT
+================================================================================
+Generated on: 2025-08-20 21:11:36
+Dataset: 234 rows × 19 columns
+
+==================================================
+DATA QUALITY SUMMARY
+==================================================
+Missing values: 15
+Duplicate rows: 0
+Memory usage: 0.07 MB
+
+==================================================
+COLUMN INFORMATION
+==================================================
+country:
+  - Type: object
+  - Unique values: 234
+  - Missing: 0 (0.0%)
+rank:
+  - Type: int64
+  - Unique values: 234
+  - Missing: 0 (0.0%)
+area:
+  - Type: float64
+  - Unique values: 232
+  - Missing: 0 (0.0%)
+landAreaKm:
+  - Type: float64
+  - Unique values: 230
+  - Missing: 0 (0.0%)
+cca2:
+  - Type: object
+  - Unique values: 233
+  - Missing: 1 (0.4%)
+cca3:
+  - Type: object
+  - Unique values: 234
+  - Missing: 0 (0.0%)
+netChange:
+  - Type: float64
+  - Unique values: 119
+  - Missing: 8 (3.4%)
+growthRate:
+  - Type: float64
+  - Unique values: 176
+  - Missing: 0 (0.0%)
+worldPercentage:
+  - Type: float64
+  - Unique values: 73
+  - Missing: 6 (2.6%)
+density:
+  - Type: float64
+  - Unique values: 234
+  - Missing: 0 (0.0%)
+densityMi:
+  - Type: float64
+  - Unique values: 234
+  - Missing: 0 (0.0%)
+place:
+  - Type: int64
+  - Unique values: 234
+  - Missing: 0 (0.0%)
+pop1980:
+  - Type: int64
+  - Unique values: 234
+  - Missing: 0 (0.0%)
+pop2000:
+  - Type: int64
+  - Unique values: 234
+  - Missing: 0 (0.0%)
+pop2010:
+  - Type: int64
+  - Unique values: 234
+  - Missing: 0 (0.0%)
+pop2022:
+  - Type: int64
+  - Unique values: 234
+  - Missing: 0 (0.0%)
+pop2023:
+  - Type: int64
+  - Unique values: 234
+  - Missing: 0 (0.0%)
+pop2030:
+  - Type: int64
+  - Unique values: 234
+  - Missing: 0 (0.0%)
+pop2050:
+  - Type: int64
+  - Unique values: 234
+  - Missing: 0 (0.0%)
+
+==================================================
+KEY STATISTICAL INSIGHTS
+==================================================
+
+rank:
+  - Mean: 117.50
+  - Median: 117.50
+  - Std Dev: 67.69
+  - Skewness: 0.00
+
+area:
+  - Mean: 581449.98
+  - Median: 81199.50
+  - Std Dev: 1761840.67
+  - Skewness: 6.08
+
+landAreaKm:
+  - Mean: 557112.28
+  - Median: 75689.25
+  - Std Dev: 1689971.53
+  - Skewness: 6.07
+
+netChange:
+  - Mean: 0.01
+  - Median: 0.00
+  - Std Dev: 0.03
+  - Skewness: 8.20
+
+growthRate:
+  - Mean: 0.01
+  - Median: 0.01
+  - Std Dev: 0.01
+  - Skewness: -0.94
+
+worldPercentage:
+  - Mean: 0.00
+  - Median: 0.00
+  - Std Dev: 0.02
+  - Skewness: 9.02
+
+density:
+  - Mean: 451.29
+  - Median: 97.48
+  - Std Dev: 1979.36
+  - Skewness: 8.72
+
+densityMi:
+  - Mean: 1168.84
+  - Median: 252.48
+  - Std Dev: 5126.55
+  - Skewness: 8.72
+
+place:
+  - Mean: 439.09
+  - Median: 439.00
+  - Std Dev: 253.30
+  - Skewness: -0.00
+
+pop1980:
+  - Mean: 18984616.98
+  - Median: 3141145.50
+  - Std Dev: 81785186.08
+  - Skewness: 9.66
+
+pop2000:
+  - Mean: 26269468.82
+  - Median: 4292907.00
+  - Std Dev: 111698206.72
+  - Skewness: 9.42
+
+pop2010:
+  - Mean: 29845235.04
+  - Median: 4942770.50
+  - Std Dev: 124218487.63
+  - Skewness: 9.29
+
+pop2022:
+  - Mean: 34074414.71
+  - Median: 5559944.50
+  - Std Dev: 136766424.80
+  - Skewness: 9.15
+
+pop2023:
+  - Mean: 34374424.74
+  - Median: 5643895.00
+  - Std Dev: 137386405.60
+  - Skewness: 9.13
+
+pop2030:
+  - Mean: 36514605.33
+  - Median: 6178231.00
+  - Std Dev: 141782710.18
+  - Skewness: 9.02
+
+pop2050:
+  - Mean: 41486278.79
+  - Median: 6352397.00
+  - Std Dev: 148167567.12
+  - Skewness: 8.69
