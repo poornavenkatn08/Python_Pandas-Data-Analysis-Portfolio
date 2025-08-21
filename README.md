@@ -163,11 +163,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - The Python community for excellent data analysis libraries
 - Contributors and users who help improve this toolkit
 
-## 📞 Support
-
-- 🐛 **Bug Reports**: [Create an issue](https://github.com/yourusername/data-analysis-toolkit/issues)
-- 💡 **Feature Requests**: [Create an issue](https://github.com/yourusername/data-analysis-toolkit/issues)
-- 📧 **Email**: your.email@example.com
 
 ## 🔄 Changelog
 
