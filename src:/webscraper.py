@@ -5,8 +5,7 @@ Fortune 500 Companies Web Scraper
 This script scrapes the list of largest companies in the United States by revenue
 from Wikipedia and exports the data to a CSV file.
 
-Author: [Your Name]
-Date: [Current Date]
+Author: Poorna Venkat Neelakantam
 Dependencies: requests, beautifulsoup4, pandas
 """
 
