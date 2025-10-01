@@ -5,8 +5,8 @@ Customer Data Cleaning Pipeline
 This script provides a comprehensive data cleaning solution for customer contact lists,
 including deduplication, data validation, standardization, and business rule implementation.
 
-Author: [Your Name]
-Date: [Current Date]
+Author: Poorna Venkat Neelakantam
+
 Dependencies: pandas, re
 """
 
