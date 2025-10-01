@@ -13,7 +13,7 @@ This script demonstrates how to use the three main components:
 2. Data Cleaner - Customer Data Cleaning
 3. EDA Analyzer - Exploratory Data Analysis
 
-Author: Data Analysis Toolkit Team
+Author: Poorna Venkat Neelakntam
 """
 
 import sys
