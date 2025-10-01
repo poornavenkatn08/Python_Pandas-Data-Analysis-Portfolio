@@ -5,8 +5,7 @@ Comprehensive Exploratory Data Analysis (EDA)
 This script provides a complete EDA framework for analyzing datasets with
 statistical summaries, correlation analysis, and professional visualizations.
 
-Author: [Your Name]
-Date: [Current Date]
+Author: Poorna Venkat Neelakantam
 Dependencies: pandas, seaborn, matplotlib, numpy
 """
 
