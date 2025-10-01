@@ -210,7 +210,7 @@ eda.run_complete_eda()
 
 def main():
     """Run all demonstrations."""
-    print("🚀 STARTING DATA ANALYSIS TOOLKIT DEMONSTRATIONS")
+    print(" STARTING DATA ANALYSIS TOOLKIT DEMONSTRATIONS")
     print("="*80)
     
     try:
@@ -239,7 +239,7 @@ def main():
         print("- examples/sample_data/eda_report_demo.txt")
         print("- notebooks/01_complete_tutorial.md")
         
-        print("\n🎯 Next Steps:")
+        print("\n Next Steps:")
         print("1. Review the generated sample data and reports")
         print("2. Modify the code for your specific use cases")
         print("3. Run individual components as needed")
