@@ -42,7 +42,7 @@ def demonstrate_web_scraper():
     data = scraper.scrape_and_export("examples/sample_data/fortune_500_demo.csv")
     
     if data is not None:
-        print("✅ Web scraping completed successfully!")
+        print("Web scraping completed successfully!")
         scraper.display_summary()
         
         # Save a small sample for demonstration
@@ -52,14 +52,14 @@ def demonstrate_web_scraper():
         
         return sample_data
     else:
-        print("❌ Web scraping failed")
+        print(" Web scraping failed")
         return None
 
 
 def demonstrate_data_cleaning():
     """Demonstrate data cleaning functionality."""
     print("\n" + "="*60)
-    print("🧹 DATA CLEANING DEMONSTRATION")
+    print("DATA CLEANING DEMONSTRATION")
     print("="*60)
     
     # Create sample messy customer data for demonstration
@@ -89,7 +89,7 @@ def demonstrate_data_cleaning():
     print("Cleaning customer data...")
     if cleaner.clean_all("examples/sample_data/messy_customer_data.csv"):
         cleaner.save_cleaned_data("examples/sample_data/cleaned_customer_data.csv")
-        print("✅ Data cleaning completed successfully!")
+        print(" Data cleaning completed successfully!")
         print(cleaner.generate_cleaning_report())
         
         print("\nCleaned Data Preview:")
@@ -97,14 +97,14 @@ def demonstrate_data_cleaning():
         
         return cleaner.df
     else:
-        print("❌ Data cleaning failed")
+        print("Data cleaning failed")
         return None
 
 
 def demonstrate_eda():
     """Demonstrate EDA functionality."""
     print("\n" + "="*60)
-    print("📊 EXPLORATORY DATA ANALYSIS DEMONSTRATION")
+    print("EXPLORATORY DATA ANALYSIS DEMONSTRATION")
     print("="*60)
     
     # Create sample dataset for EDA demonstration
@@ -140,7 +140,7 @@ def demonstrate_eda():
     # Load and analyze data
     print("Loading sample sales data for EDA...")
     if eda.load_data("examples/sample_data/sales_data_demo.csv"):
-        print("✅ Data loaded successfully!")
+        print(" Data loaded successfully!")
         
         # Run comprehensive EDA
         print("\nRunning comprehensive EDA analysis...")
@@ -148,18 +148,18 @@ def demonstrate_eda():
         
         # Generate detailed report
         report = eda.generate_comprehensive_report("examples/sample_data/eda_report_demo.txt")
-        print("📋 Comprehensive EDA report generated!")
+        print("Comprehensive EDA report generated!")
         
         return sample_eda_data
     else:
-        print("❌ EDA analysis failed")
+        print("EDA analysis failed")
         return None
 
 
 def create_sample_notebooks():
     """Create sample Jupyter notebook content."""
     print("\n" + "="*60)
-    print("📓 CREATING SAMPLE NOTEBOOKS")
+    print("CREATING SAMPLE NOTEBOOKS")
     print("="*60)
     
     # Create notebooks directory
@@ -205,7 +205,7 @@ eda.run_complete_eda()
     with open("notebooks/01_complete_tutorial.md", "w") as f:
         f.write(notebook_content)
     
-    print("✅ Sample notebook templates created!")
+    print(" Sample notebook templates created!")
 
 
 def main():
@@ -227,7 +227,7 @@ def main():
         create_sample_notebooks()
         
         print("\n" + "="*80)
-        print("🎉 ALL DEMONSTRATIONS COMPLETED SUCCESSFULLY!")
+        print(" ALL DEMONSTRATIONS COMPLETED SUCCESSFULLY!")
         print("="*80)
         
         print("\n📁 Files created:")
@@ -246,7 +246,7 @@ def main():
         print("4. Check the documentation in docs/ folder")
         
     except Exception as e:
-        print(f"\n❌ Error during demonstration: {e}")
+        print(f"\n Error during demonstration: {e}")
         print("Please check the error logs and ensure all dependencies are installed.")
 
 
